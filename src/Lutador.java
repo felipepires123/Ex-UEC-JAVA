@@ -33,7 +33,7 @@ public class Lutador {
         System.out.println("Ganhou: " + getVitorias());
         System.out.println("Perdeu: " + getDerrotas());
         System.out.println("Empatou: " + getEmpates());
-        System.out.println("Categoria:" + this.getCategoria());
+        System.out.println("Categoria:" + this.getCategoria() +"\n\n");
     }
 
     public void status(){
